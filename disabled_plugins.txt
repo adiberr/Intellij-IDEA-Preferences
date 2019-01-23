@@ -1,0 +1,14 @@
+AntSupport
+CVS
+CloudBees
+CloudFoundry
+OpenShift
+PerforceDirectPlugin
+Subversion
+TFS
+com.intellij.uiDesigner
+hg4idea
+org.coffeescript
+org.intellij.grails
+org.jetbrains.android
+org.jetbrains.plugins.gradle
