@@ -11,5 +11,5 @@ To apply preferences :
 ```cmd
 cd %userprofile%\.IntelliJIdea*
 rmdir /S /Q config
-git clone https://github.com/adiberr/Intellij-IDEA-Preferences.git config
+git clone https://github.com/adiberr/Intellij-IDEA-Preferences.git config --branch v2019.3
 ```
