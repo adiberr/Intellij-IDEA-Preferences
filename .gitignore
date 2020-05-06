@@ -47,3 +47,11 @@ options/stubIndex.xml
 options/runner.layout.xml
 options/window.manager.xml
 options/usage.statistics.xml
+c.pwd
+idea64.exe.vmoptions
+eval/
+options/vcs.xml
+options/wsl.distributions.xml
+options/textmate_os.xml
+options/profilerRunConfigurations.xml
+workspace/
