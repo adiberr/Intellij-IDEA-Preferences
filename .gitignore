@@ -55,3 +55,7 @@ options/wsl.distributions.xml
 options/textmate_os.xml
 options/profilerRunConfigurations.xml
 workspace/
+options/actionSummary.xml
+options/mavenVersion.xml
+plugins/pluginsXMLIds.xml
+plugins/pluginsXMLIds.xml.etag
