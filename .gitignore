@@ -15,7 +15,6 @@ tasks/
 options/debugger.renderers.xml
 options/databaseSettings.xml
 options/databaseDrivers.xml
-options/colors.scheme.xml
 options/dimensions.xml
 options/baseRefactoring.xml
 options/debugger.xml
